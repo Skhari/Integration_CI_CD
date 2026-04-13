@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-mini-game",
+  "version": "1.0.0",
+  "description": "My practice CI/CD project",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
